@@ -58,3 +58,6 @@ public:
 int main(){
     return 0;
 }
+
+// T.C = O(E) + O(V + 2E)
+// S.C = O(V + 2E) + O(V)*3 + O(2E) + O(H=V)
